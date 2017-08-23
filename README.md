@@ -10,3 +10,7 @@ console.log('halløj');
 - Offentligt - Alle vil kunne finde dit repository.
 - Sæt flueben ved "Initialize this repository with a README" for at oprette en ReadMe fil.
 - Til sidst skal du vælge om du vil have gitignore og license oprette i dit repository.
+
+
+- Jeg vidste ikke at man skulle gemme opgaverne... Så de fleste af dem som mangler er pga de ikke er gemt... 
+- Kom og tag en snak med mig hvis i lige ville være sikre på jeg forstår tingene.
