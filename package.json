@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/wi73b-praktisk-web/Igang-med-Github-Emil-Berg/issues"
   },
-  "homepage": "https://github.com/wi73b-praktisk-web/Igang-med-Github-Emil-Berg#readme"
+  "homepage": "https://github.com/wi73b-praktisk-web/Igang-med-Github-Emil-Berg#readme",
+  "dependencies": {
+    "nodemon": "^1.11.0"
+  }
 }
